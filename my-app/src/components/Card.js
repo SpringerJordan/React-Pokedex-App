@@ -20,11 +20,15 @@ export default function ActionAreaCard() {
         />
         <CardContent>
           <Typography gutterBottom variant="h6" component="div">
-            Name : Pickachu Type : Electric
+            Name : Pickachu
+          </Typography>
+
+          <Typography gutterBottom variant="h6" component="div">
+            Type : Electric
           </Typography>
           
           <Typography variant="body2" color="text.secondary">
-            This is example text
+          Pikachu is a petite, stocky mouse Pokémon that attributes a yellow overall tone of fur with linear brown markings covering its backs with the inclusion of a small extra pallet on the tail
           </Typography>
         </CardContent>
       </CardActionArea>
