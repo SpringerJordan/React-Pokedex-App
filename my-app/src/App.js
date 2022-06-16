@@ -1,5 +1,5 @@
 import './App.css';
-import card from "@mui/material";
+//import card from "@mui/material";
 import {Typography} from '@mui/material';
 import Cards from './components/Card'
 
@@ -16,7 +16,8 @@ function App() {
       </Typography>
       
       <Cards></Cards>
-      <Cards></Cards>
+      
+      {/* <Cards></Cards> */}
 
 
     </div>
